@@ -30,26 +30,13 @@ Pas dur de comprendre pourquoi. Mais je m'interpelle, dois-je attendre d'avoir b
 
 ## Pour arriver à cela, de quoi ai-je besoin ?
 
-* Ne pas etre dépendant d'un 9h à 5h
-
-<<<<<<< HEAD
+Ne pas etre dépendant d'un 9h à 5h
 Créer des revenus assez conséquent et non lié à une seule source (A définir le montant exact)
 
-Etre dans une relation libertine ou semi-ouverte et surtout beaucoup de confiance avec ma partenaire
-=======
-* Créer des revenus assez conséquent et non lié à une seule source ( A définir le montant exact)
-
-* Etre dans une relation libertine ou semi-ouverte et beaucoup de confiance avec ma partenaire
->>>>>>> 45f5a8dc4cc74983609823c1b1b42b349bce82ec
-
-* Un réseau de personnes qui ont des idées ou envie commune (ou en parti)
-
-* Créer des évènements avec la famille ou nous pouvons se retrouver et profiter des bonnes choses.
-
-<<<<<<< HEAD
-Etre en bonne santé et bien entrenu physiquement.
-
-Trouver le bonne équilibre pour arriver à passer du temps seul, avec mes enfants , avec mes amis , avec ma compagne , avec ma famille.
-=======
+*  Etre dans une relation libertine ou semi-ouverte et surtout beaucoup de confiance avec ma partenaire
+*  Créer des revenus assez conséquent et non lié à une seule source ( A définir le montant exact)
+*  Etre dans une relation libertine ou semi-ouverte et beaucoup de confiance avec ma partenaire
+*  Un réseau de personnes qui ont des idées ou envie commune (ou en parti)
+*  Créer des évènements avec la famille ou nous pouvons se retrouver et profiter des bonnes choses.
 * Etre en bonne santé et bien entrenu physiquement.
->>>>>>> 45f5a8dc4cc74983609823c1b1b42b349bce82ec
+*  Trouver le bonne équilibre pour arriver à passer du temps seul, avec mes enfants , avec mes amis , avec ma compagne , avec ma famille.
