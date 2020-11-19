@@ -31,12 +31,14 @@ Passer du temps avec ma famille et mes enfants et se créer un tas de souvenir c
 
 Ne pas etre dépendant d'un 9h à 5h
 
-Créer des revenus assez conséquent et non lié à une seule source ( A définir le montant exact)
+Créer des revenus assez conséquent et non lié à une seule source (A définir le montant exact)
 
-Etre dans une relation libertine ou semi-ouverte et beaucoup de confiance avec ma partenaire
+Etre dans une relation libertine ou semi-ouverte et surtout beaucoup de confiance avec ma partenaire
 
 Un réseau de personnes qui ont des idées ou envie commune (ou en parti)
 
 Creer des evenements avec la famille ou on peux se retrouver et profiter des bonnes choses
 
 Etre en bonne santé et bien entrenu physiquement.
+
+Trouver le bonne équilibre pour arriver à passer du temps seul, avec mes enfants , avec mes amis , avec ma compagne , avec ma famille.
