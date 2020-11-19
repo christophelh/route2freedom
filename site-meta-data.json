@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Route2Freedom",
+  "siteUrl": "http://vigorous-meninsky-b709a4.netlify.app",
+  "description": "Route 2 Freedom",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hello, Bonjour Freedomers",
+    "description": "Comment etre soi-meme et passer du temps à profiter de la vie, ne pas etre limité par nos devoirs du quotidien, la peur des autres , nos revenus financiers, le jugement des autres "
   }
 }
