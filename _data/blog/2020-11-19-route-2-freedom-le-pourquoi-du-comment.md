@@ -3,6 +3,7 @@ template: BlogPost
 path: /presentation
 date: 2020-11-19T20:24:35.550Z
 title: 'Route 2 Freedom: Le Pourquoi du comment.'
+metaDescription: test
 thumbnail: /assets/pablo-heimplatz-EAvS-4KnGrk-unsplash (1).jpg
 ---
 J'ai eu la chance de vivre dans le sud de la France cet été dans une super maison avec piscine  dans les Alpilles juste a coté d'un magnifique green de golf.  En y regardant de plus près l'endroit est rempli de retraités qui joue au golf, font du vélo électrique et pratique le libertinage. Je regarde autour de moi, ils sont heureux. 
